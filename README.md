@@ -4,11 +4,11 @@
 
 ## Udemy Tailwind CSS From Scratch Learn By Building Projects Brad Traversy
 
-### **Objective:** Fylo Website
+### **Objective:** Bookmark Website
 
 &emsp;
 
-#### Link to Project &rarr; [Fylo Website](https://fylo-erhan-ertem.netlify.app/)
+#### Link to Project &rarr; [Fylo Website](https://bookmark-erhan-ertem.netlify.app/)
 
 ![Screenshot](screenshot.webp)
 
