@@ -8,7 +8,7 @@
 
 &emsp;
 
-#### Link to Project &rarr; [Fylo Website](https://bookmark-erhan-ertem.netlify.app/)
+#### Link to Project &rarr; [Bookmark Website](https://bookmark-erhan-ertem.netlify.app/)
 
 ![Screenshot](screenshot.webp)
 
