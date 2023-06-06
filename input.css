@@ -11,3 +11,8 @@
 		@apply absolute right-[60%] top-60 h-[300px] w-[2000px] rounded-r-full bg-softBlue;
 	}
 }
+
+.ficon:hover {
+	filter: invert(57%) sepia(69%) saturate(4075%) hue-rotate(328deg)
+		brightness(99%) contrast(97%);
+}
