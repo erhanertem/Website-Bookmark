@@ -2,8 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-@media (min-width: 1020px) {
+/* @media (min-width: 1020px) { */
+@media screen(lg) {
 	.bg-hero {
 		@apply absolute left-[30%] top-52 h-[300px] w-[2000px] rounded-l-full bg-softBlue;
+	}
+	.bg-tabs {
+		@apply absolute right-[60%] top-60 h-[300px] w-[2000px] rounded-r-full bg-softBlue;
 	}
 }
